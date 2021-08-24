@@ -1,0 +1,22 @@
+{
+  "name": "clase03-1865715",
+  "version": "1.0.0",
+  "description": "David Vargas Rivera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplicaciones-mobiles-33/Clase03-1865715.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplicaciones-mobiles-33/Clase03-1865715/issues"
+  },
+  "homepage": "https://github.com/aplicaciones-mobiles-33/Clase03-1865715#readme",
+  "dependencies": {
+    "http-server": "^13.0.0"
+  }
+}
